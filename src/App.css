@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #6bc1ae;
+  padding-top: 70px;
+}
+@media (max-width: 500px) {
+  body {
+    padding-top: 200px;
+  }
+}
